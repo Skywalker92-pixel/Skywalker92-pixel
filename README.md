@@ -31,10 +31,9 @@ Estudiante de Ingeniería de Sistemas en la Universidad Nacional de San Cristób
 ### 📊 Métricas de GitHub
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skywalker92-pixel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=Skywalker92-pixel&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skywalker92-pixel&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
 </p>
-
 ---
 
 ### 🌐 Conecta Conmigo
